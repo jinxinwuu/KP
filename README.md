@@ -22,14 +22,17 @@ This is my personal anti-procrastination coach — and maybe it can help others 
 
 ### Current status (March 2026)
 - MVP v0.2 running on Streamlit
-- Core loop works: goal → tiny step → shrink if needed → do it → finished → streak + next step
 - Using OpenAI (gpt-4o-mini) for smart, adaptive prompts
 - History memory to avoid regressions
 - Basic safety check for dangerous goals
 - Still iterating daily on step quality (vague/repetitive steps are the main thing I'm fixing)
 
-### How to run it locally (for developers / curious people)
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/kill-procrastination.git
-   cd kill-procrastination
+
+### Feedback welcome!
+This is my first real side project - it's messy, but I'm shipping daily.
+If you try it and something feels off (step too big/vague, UI confusing, etc.), please open an issue or just tell me.
+
+Thanks a lot for checking it out.
+
+Jinxin
+
