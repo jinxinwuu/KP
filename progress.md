@@ -15,5 +15,5 @@ Summary of key progress.
 - **Mar 10** — Faced the first major blocker (tiny-step quality), pinpointed prompt clarity as root cause, and decided to focus exclusively on rewriting the first-step prompt with structured reasoning stages.
 - **Mar 11** — Felt stuck on unclear starting prompt, reconfirmed core job as "help start when resistance hits" (not multi-day plans), removed day-based structure, and shifted to "next tiny step" momentum flow.
 - **Mar 12–13** — Took a short break due to mental stress.
-- **Mar 15** — Published on the streamlit.
+- **Mar 15** — Deployed on the streamlit!
 
