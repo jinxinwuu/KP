@@ -2,7 +2,8 @@ import os
 import streamlit as st
 from openai import OpenAI
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+client = OpenAI(api_key=st.secrets["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"])
 
 st.set_page_config(page_title="Kill Procrastination", layout="centered")
 st.title("Kill Procrastination")
