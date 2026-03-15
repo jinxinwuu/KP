@@ -1,10 +1,7 @@
 # Progress Timeline – Kill Procrastination
 
-One-sentence summary of daily progress since Day 1 (March 2026).
-# Progress Timeline – Kill Procrastination
-
 Daily 1-hour build sessions since March 1, 2026.  
-One-sentence-per-day summary of key progress.
+Summary of key progress.
 
 - **Mar 1** — Defined the core loop and wrote 5 example scenarios.
 - **Mar 2** — Clarified the product philosophy, finalized safety checks, onboarding tone, interaction choices, activation definition, and basic stopping rules for v0.1.
