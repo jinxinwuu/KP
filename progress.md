@@ -16,4 +16,5 @@ Summary of key progress.
 - **Mar 11** — Felt stuck on unclear starting prompt, reconfirmed core job as "help start when resistance hits" (not multi-day plans), removed day-based structure, and shifted to "next tiny step" momentum flow.
 - **Mar 12–13** — Took a short break due to mental stress.
 - **Mar 15** — Successfully deployed the v0.2 app to Streamlit Community Cloud — first live public version online!
+- **Mar 16** — Successfully added full bilingual support (English + Chinese) with a seamless language toggle, translated UI elements, and dynamic model adjustments for better Chinese response quality.
 
