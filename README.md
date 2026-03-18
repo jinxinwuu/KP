@@ -15,10 +15,6 @@ You don't need motivation or a perfect plan.
 You just need to **start** with something so tiny that resistance disappears.  
 Once momentum begins, the rest often follows.
 
-### Why I built this
-I'm a beginner coder who struggles with procrastination a lot.  
-Instead of reading more books or making grand plans, I decided to build a tool that forces me to take one real tiny action every day.  
-This is my personal anti-procrastination coach — and maybe it can help others too.
 
 ### Current status (March 2026)
 - MVP v0.2 running on Streamlit
